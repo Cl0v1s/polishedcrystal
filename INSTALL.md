@@ -76,7 +76,7 @@ make [faithful] [nortc] [hgss|monochrome|noir] [debug]
 
 In **Terminal**, run:
 
-md5sum is required.  
+`md5sum` is required.  
 To install it: ```brew install md5sha1sum```
 
 ```bash
